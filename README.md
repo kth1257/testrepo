@@ -1,5 +1,5 @@
 # testrepo
 
-hello world
-hi~hi~
-world
+* hello world
+* hi~hi~
+* world
